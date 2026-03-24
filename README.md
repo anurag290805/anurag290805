@@ -22,7 +22,7 @@ HTML · CSS · JavaScript · Python · Streamlit · SQLite · Git · MATLAB
 
 ### 🚀 Featured Project
 
-**[🗺️ MapMaster](https://github.com/anurag290805/Mapmaster)** — [▶️ Play Live](https://anurag290805.github.io/Mapmaster)
+**[🗺️ MapMaster](https://github.com/anurag290805/mapmaster)** — [▶️ Play Live](https://anurag290805.github.io/mapmaster)
 
 A full-featured browser-based geography quiz game built with vanilla HTML, CSS, and JavaScript. Supports four game modes (Type the Name, Locate on Map, Flags, Capitals) across 25 countries, 6 continents, and a 194-country World map. Features a modular JS architecture (7 files), interactive SVG maps with zoom & pan, challenge mode with timers and lives, streak tracking, dark mode, and a confetti win animation — no frameworks, no dependencies.
 
